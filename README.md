@@ -30,7 +30,7 @@
 
  * Once you have obtained the perfect image, it should look something like this.
  
-    ![Mask](test/capture.jpg)
+    ![Mask](https://github.com/AryanFelix/AirPen/blob/master/test/capture.JPG)
  
  * Note down the values from the trackbar in the form of a list like so.
 
