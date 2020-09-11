@@ -62,6 +62,6 @@ while True:
     if len(points)!=0:
         draw(points, colorValues)
     final = cv2.flip(imgResult,1)
-    cv2.imshow("Video", final)
+    cv2.imshow("Press 'x' to Exit!", final)
     if cv2.waitKey(1) & 0xFF ==ord('x'):
         break
